@@ -1,0 +1,43 @@
+[
+    {
+        "login_type": "Web",
+        "description": "Instagram",
+        "username": "CristianoRonaldo7",
+        "password": "ksv/W[PjxeOz",
+        "url": "www.instagram.com"
+    },
+    {
+        "login_type": "Web",
+        "description": "Facebook",
+        "username": "CristianoRonaldo7",
+        "password": "D+qvs%\\m/l}z",
+        "url": "www.facebook.com"
+    },
+    {
+        "login_type": "App",
+        "description": "Snapchat",
+        "username": "CR7",
+        "password": "~0B-B,Mx(Pr=",
+        "app_name": "Snapchat"
+    },
+    {
+        "login_type": "Web",
+        "description": "YouTube",
+        "username": "MontanaBlack88",
+        "password": "rYZmwF-{.]^G",
+        "url": "www.youtube.com"
+    },
+    {
+        "login_type": "PIN",
+        "description": "T\u00fcrCode",
+        "location": "Haust\u00fcr",
+        "pin": "46149"
+    },
+    {
+        "login_type": "Device",
+        "description": "WLAN",
+        "username": "",
+        "password": "cX?x8eJ34m|*",
+        "device": "Fritzbox123"
+    }
+]
