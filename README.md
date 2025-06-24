@@ -53,3 +53,7 @@ python main.py
 
 # Anforderungen installieren (wenn nötig)
 pip install -r 
+
+
+Github:
+https://github.com/Medusa0208/LogIn-Manager
