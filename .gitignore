@@ -1,0 +1,22 @@
+# Bytecode und Cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtuelle Umgebung
+venv/
+.env
+
+# Mac-Systemdateien
+.DS_Store
+
+# JSON-Datenbank (lokale Testdaten – nicht ins Repo)
+passwoerter.json
+
+# Projektbezogene Dokumente (lokal, nicht in Repo)
+Projektdokumente/
+project_docs/
+
+# Sonstiges
+*.log
+*.sqlite3
